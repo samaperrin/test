@@ -20,8 +20,6 @@ pg_drv<-dbDriver("PostgreSQL")
 pg_db <- "nofa_sandbox"
 pg_schema <- "Hydrography"
 pg_tmp_schema <- "temporary"
-pg_user <- "sam.perrin"
-pg_password <- "vegemite"
 pg_host <- "vm-srv-finstad.vm.ntnu.no"
 
 wrid <- 14695
